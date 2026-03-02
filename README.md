@@ -61,7 +61,7 @@ Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je 
 
 
 ## Scenarij korištenja (korisnički tijek)
-1. Ulazak u webshop
+1. **Ulazak u webshop**
 
     Korisnik otvara webshop.
 
@@ -69,19 +69,19 @@ Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je 
 
     Nakon unosa ispravne lozinke, korisnik ulazi u webshop.
 
-2. Početna stranica
+2. **Početna stranica** 
 
     Prikazuje se pregled kategorija i istaknutih proizvoda.
 
     Navigacija je jednostavna, s crnom pozadinom i žutim hover efektima.
 
-3. Pregled proizvoda
+3. **Pregled proizvoda** 
 
     Korisnik odabire kategoriju.
 
     Otvara stranicu proizvoda i dodaje artikle u košaricu.
 
-4. Odabir načina kupovine
+4. **Odabir načina kupovine**
 
 Opcija A — Bez prijave:
 
@@ -103,6 +103,6 @@ Opcija B — S prijavom:
 
     Završava narudžbu brže i uz popust (ako postoji).
 
-5. Potvrda narudžbe
+5. **Potvrda narudžbe**
 
     Korisnik dobiva potvrdu i može vidjeti detalje narudžbe.
