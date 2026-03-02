@@ -16,22 +16,22 @@ Tematika webshopa odabrana je zato što online kupovina postaje dominantan oblik
 
 ## Ova aplikacija rješava nekoliko problema:
 
- - **Omogućuje siguran i kontroliran pristup webshopu** — pristup je moguć samo uz lozinku.
-- **Nudi jednostavnu kupovinu bez registracije** — korisnik može naručiti bez kreiranja računa.
- - **Nagrađuje prijavljene korisnike dodatnim pogodnostima** — kuponi, spremljena adresa i kartica.
-- **Omogućuje brzu ponovnu kupovinu zahvaljujući spremanju podataka** — prijavljeni korisnici štede vrijeme.
-- **Pruža moderan i atraktivan dizajn koji se ističe na tržištu** — crno‑žuta tema i glow efekti.
+ - **Omogućuje siguran i kontroliran pristup webshopu** 
+- **Nudi jednostavnu kupovinu bez registracije** 
+ - **Nagrađuje prijavljene korisnike dodatnim pogodnostima** 
+- **Omogućuje brzu ponovnu kupovinu zahvaljujući spremanju podataka** 
+- **Pruža moderan i atraktivan dizajn koji se ističe na tržištu**
 
 
 ## Ciljni korisnici su:
 
-   | **kupci koji žele brzu kupovinu bez registracije**|
+- **kupci koji žele brzu kupovinu bez registracije**
 
-   | **korisnici koji žele pogodnosti i popuste kroz prijavu**|
+- **korisnici koji žele pogodnosti i popuste kroz prijavu**
 
-   | **VIP kupci ili zatvorene grupe kojima je pristup webshopu ograničen lozinkom**|
+- **VIP kupci ili zatvorene grupe kojima je pristup webshopu ograničen lozinkom**
 
-   | **mlađa publika koja preferira tamne, modernije i gaming‑inspirirane dizajne**|
+- **mlađa publika koja preferira tamne, modernije i gaming‑inspirirane dizajne**
 
 Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je čini idealnim rješenjem za suvremeni e‑commerce.
 
@@ -58,3 +58,51 @@ Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je 
 | **Korisnički profil** | Pregled spremljenih podataka i povijesti narudžbi. |
 | **Administratorski panel** | Upravljanje proizvodima, kuponima i korisnicima (opcionalno). |
 
+
+
+## Scenarij korištenja (korisnički tijek)
+1. Ulazak u webshop
+
+    Korisnik otvara webshop.
+
+    Prikazuje se crni ekran s žutim svijetlećim tekstom: "Unesite lozinku za pristup".
+
+    Nakon unosa ispravne lozinke, korisnik ulazi u webshop.
+
+2. Početna stranica
+
+    Prikazuje se pregled kategorija i istaknutih proizvoda.
+
+    Navigacija je jednostavna, s crnom pozadinom i žutim hover efektima.
+
+3. Pregled proizvoda
+
+    Korisnik odabire kategoriju.
+
+    Otvara stranicu proizvoda i dodaje artikle u košaricu.
+
+4. Odabir načina kupovine
+
+Opcija A — Bez prijave:
+
+    Korisnik ide na blagajnu.
+
+    Unosi adresu i podatke o plaćanju.
+
+    Ne može unijeti kupon.
+
+    Završava narudžbu.
+
+Opcija B — S prijavom:
+
+    Korisnik se prijavljuje ili registrira.
+
+    Adresa i kartica su već spremljeni.
+
+    Ima polje za unos kupona.
+
+    Završava narudžbu brže i uz popust (ako postoji).
+
+5. Potvrda narudžbe
+
+    Korisnik dobiva potvrdu i može vidjeti detalje narudžbe.
