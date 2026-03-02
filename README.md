@@ -82,19 +82,19 @@ Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je 
 
 4. **Odabir načina kupovine**
 
-Opcija A — Bez prijave:
+    Opcija A — Bez prijave:
 
-Korisnik ide na blagajnu.
-Unosi adresu i podatke o plaćanju.
-Ne može unijeti kupon.
-Završava narudžbu.
+    Korisnik ide na blagajnu.
+    Unosi adresu i podatke o plaćanju.
+    Ne može unijeti kupon.
+    Završava narudžbu.
 
-Opcija B — S prijavom:
+    Opcija B — S prijavom:
 
-Korisnik se prijavljuje ili registrira.
-Adresa i kartica su već spremljeni.
-Ima polje za unos kupona.
-Završava narudžbu brže i uz popust (ako postoji).
+    Korisnik se prijavljuje ili registrira.
+    Adresa i kartica su već spremljeni.
+    Ima polje za unos kupona.
+    Završava narudžbu brže i uz popust (ako postoji).
 
 
 5. **Potvrda narudžbe**
