@@ -64,44 +64,38 @@ Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je 
 1. **Ulazak u webshop**
 
     Korisnik otvara webshop.
-
     Prikazuje se crni ekran s žutim svijetlećim tekstom: "Unesite lozinku za pristup".
-
     Nakon unosa ispravne lozinke, korisnik ulazi u webshop.
+
 
 2. **Početna stranica** 
 
     Prikazuje se pregled kategorija i istaknutih proizvoda.
-
     Navigacija je jednostavna, s crnom pozadinom i žutim hover efektima.
+
 
 3. **Pregled proizvoda** 
 
     Korisnik odabire kategoriju.
-
     Otvara stranicu proizvoda i dodaje artikle u košaricu.
+
 
 4. **Odabir načina kupovine**
 
 Opcija A — Bez prijave:
 
-    Korisnik ide na blagajnu.
-
-    Unosi adresu i podatke o plaćanju.
-
-    Ne može unijeti kupon.
-
-    Završava narudžbu.
+Korisnik ide na blagajnu.
+Unosi adresu i podatke o plaćanju.
+Ne može unijeti kupon.
+Završava narudžbu.
 
 Opcija B — S prijavom:
 
-    Korisnik se prijavljuje ili registrira.
+Korisnik se prijavljuje ili registrira.
+Adresa i kartica su već spremljeni.
+Ima polje za unos kupona.
+Završava narudžbu brže i uz popust (ako postoji).
 
-    Adresa i kartica su već spremljeni.
-
-    Ima polje za unos kupona.
-
-    Završava narudžbu brže i uz popust (ako postoji).
 
 5. **Potvrda narudžbe**
 
