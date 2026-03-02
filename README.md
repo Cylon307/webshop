@@ -14,26 +14,47 @@ S druge strane, prijavljeni korisnici dobivaju niz pogodnosti koje im olakšavaj
 
 Tematika webshopa odabrana je zato što online kupovina postaje dominantan oblik trgovine. Sve više korisnika preferira jednostavnost, brzinu i dostupnost kupovine putem interneta. Webshopovi su danas ključni dio poslovanja, a personalizirani dizajn i dodatne funkcionalnosti mogu značajno povećati prodaju i korisničko zadovoljstvo. Crno‑žuta estetika daje aplikaciji snažan vizualni identitet, dok funkcionalnosti poput lozinke na ulazu i razlike između prijavljenih i neprijavljenih korisnika stvaraju jedinstveno korisničko iskustvo.
 
-Ova aplikacija rješava nekoliko problema:
+## Ova aplikacija rješava nekoliko problema:
 
-    omogućuje siguran i kontroliran pristup webshopu
+ - **Omogućuje siguran i kontroliran pristup webshopu** — pristup je moguć samo uz lozinku.
+- **Nudi jednostavnu kupovinu bez registracije** — korisnik može naručiti bez kreiranja računa.
+ - **Nagrađuje prijavljene korisnike dodatnim pogodnostima** — kuponi, spremljena adresa i kartica.
+- **Omogućuje brzu ponovnu kupovinu zahvaljujući spremanju podataka** — prijavljeni korisnici štede vrijeme.
+- **Pruža moderan i atraktivan dizajn koji se ističe na tržištu** — crno‑žuta tema i glow efekti.
 
-    nudi jednostavnu kupovinu bez registracije
 
-    nagrađuje prijavljene korisnike dodatnim pogodnostima
+## Ciljni korisnici su:
 
-    omogućuje brzu ponovnu kupovinu zahvaljujući spremanju podataka
+   | **kupci koji žele brzu kupovinu bez registracije**|
 
-    pruža moderan i atraktivan dizajn koji se ističe na tržištu
+   | **korisnici koji žele pogodnosti i popuste kroz prijavu**|
 
-Ciljni korisnici su:
+   | **VIP kupci ili zatvorene grupe kojima je pristup webshopu ograničen lozinkom**|
 
-    kupci koji žele brzu kupovinu bez registracije
-
-    korisnici koji žele pogodnosti i popuste kroz prijavu
-
-    VIP kupci ili zatvorene grupe kojima je pristup webshopu ograničen lozinkom
-
-    mlađa publika koja preferira tamne, modernije i gaming‑inspirirane dizajne
+   | **mlađa publika koja preferira tamne, modernije i gaming‑inspirirane dizajne**|
 
 Aplikacija je fleksibilna, vizualno upečatljiva i funkcionalno bogata, što je čini idealnim rješenjem za suvremeni e‑commerce.
+
+## Osnovne funkcionalnosti
+
+| Funkcionalnost | Opis |
+|----------------|------|
+| **Ulazna lozinka** | Prije ulaska u webshop korisnik mora unijeti lozinku. |
+| **Pregled proizvoda** | Prikaz svih dostupnih proizvoda s detaljima. |
+| **Kategorije proizvoda** | Grupiranje proizvoda prema kategorijama radi lakše navigacije. |
+| **Košarica** | Dodavanje, uklanjanje i pregled proizvoda u košarici. |
+| **Kupovina bez prijave** | Korisnik može naručiti bez kreiranja računa. |
+| **Ručni unos adrese i plaćanja** | Neprijavljeni korisnici moraju svaki put unijeti adresu i podatke o plaćanju. |
+
+
+## Napredne funkcionalnosti
+
+| Funkcionalnost | Opis |
+|----------------|------|
+| **Registracija i prijava** | Kreiranje korisničkog računa i prijava u sustav. |
+| **Spremanje adrese** | Prijavljeni korisnici unose adresu samo jednom. |
+| **Spremanje kartice** | Brže plaćanje jer se podaci o kartici pamte. |
+| **Kuponi za popust** | Dostupni samo prijavljenim korisnicima. |
+| **Korisnički profil** | Pregled spremljenih podataka i povijesti narudžbi. |
+| **Administratorski panel** | Upravljanje proizvodima, kuponima i korisnicima (opcionalno). |
+
