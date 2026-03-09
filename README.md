@@ -1,5 +1,5 @@
 # webshop
-moj zadatak - izrada webshop stranice
+Moj zadatak - izrada webshop stranice
 
 
 Aplikacija predstavlja moderan, vizualno upečatljiv i funkcionalan webshop dizajniran u prepoznatljivoj kombinaciji crne i žute boje. Crna boja dominira pozadinom, stvarajući elegantan, minimalistički i pomalo misteriozan vizualni okvir, dok je tekst istaknut svijetlećim žutim highlight efektom koji daje snažan kontrast i futuristički identitet. Ova kombinacija boja nije odabrana slučajno — psihološki gledano, crna simbolizira luksuz, moć i profesionalnost, dok žuta privlači pažnju, potiče energiju i stvara osjećaj dinamike. Zajedno, one čine vizualni stil koji se izdvaja od klasičnih bijelih i minimalističkih e‑commerce rješenja te webshopu daju prepoznatljiv i moderan karakter.
